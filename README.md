@@ -1,5 +1,6 @@
 # GCS2022
-Aulas PUC
+Aulas PUCRS
 
-## Disciplinas cursando
-- software
+## Disciplinas **cursando**
+- software 2
+- banco de dados
